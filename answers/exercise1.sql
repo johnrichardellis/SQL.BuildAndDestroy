@@ -1,0 +1,1 @@
+mysql> CREATE SCHEMA MyNewDB;                                                   Query OK, 1 row affected (0.09 sec)
