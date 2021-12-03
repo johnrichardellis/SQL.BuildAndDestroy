@@ -1,0 +1,1 @@
+mysql> select * from Students where postalCode is null;

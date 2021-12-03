@@ -1,0 +1,1 @@
+mysql> update Students set city = 'Edinburgh';
